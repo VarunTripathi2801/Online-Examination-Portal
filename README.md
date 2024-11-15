@@ -11,3 +11,13 @@ Examinees log in to access their profiles.
 Exam starts at a set time, and responses are saved to the server.
 Examinees can change answers within the allowed duration but not afterward.
 System ensures error-free, quick checking and result generation.
+Front end: HTML, CSS, JavaScript
+
+HTML: Used for creating and saving web documents (e.g., Notepad/Notepad++).
+CSS: Stylesheets for designing attractive layouts.
+JavaScript: Programming language for browser interactions.
+Back end: PHP, MySQL
+
+PHP: Hypertext Preprocessor for dynamic web content generation; open source.
+MySQL: Database management for querying and handling data.
+Software Requirements: WAMP, XAMPP, MAMP, or LAMP Server.
