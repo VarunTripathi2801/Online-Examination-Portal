@@ -5,7 +5,7 @@ Outcome: Successfully registered students receive login credentials.
 
 2. Receiving Notifications and Alerts
 Description: The portal sends notifications about upcoming exams, changes in exam schedules, or other important announcements.
-Outcome: Users are up-to-date with the latest information.
+Outcome: Users are up-to-date with the latest information.j
 
 3. Login
 Description: Users log in using their credentials (username/email and password) to access the portal's features.
