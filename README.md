@@ -1,7 +1,10 @@
 # Online-Examination-Portal
 Online Examination System is a fast, accurate, and growing exam method.
+
 Requires less manpower to manage.
+
 Saves student time and is widely used by organizations for objective tests.
+
 Allows quick performance analysis and faster result publication.
 Environment-friendly by reducing paper use.
 Useful for learning and developing using PHP.
